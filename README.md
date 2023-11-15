@@ -1,4 +1,4 @@
-# Talaarawan
+# Taga-arawan: a fork of talaarawan
 
 ![talaarawan](https://github.com/glendell03/talaarawan/blob/main/talaarawan.PNG)
 
